@@ -1,4 +1,4 @@
-# Programing-Languages
+# Grocery Item Frequency Tracker
 
 The Grocery Item Frequency Tracker was developed to automate the process of analyzing grocery sales data, making it easier to track how often specific items are sold. The project involved writing a program that reads a dataset containing item sales, processes the data, and generates a report with the frequency of each item. This solution is designed to save time and reduce errors when handling large datasets.
 
